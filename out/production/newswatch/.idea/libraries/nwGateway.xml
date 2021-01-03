@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nwGateway">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nwGateway.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
